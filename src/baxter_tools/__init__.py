@@ -26,3 +26,4 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 from .smoketests import SmokeTest
+from .tuck import Tuck
